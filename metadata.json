@@ -1,0 +1,6 @@
+{
+  "name": "PRAANJEEV",
+  "description": "AI Emergency Response & Hospital Coordination System connecting the right patient to the right verified hospital with real-time resources and traffic-aware routing.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
